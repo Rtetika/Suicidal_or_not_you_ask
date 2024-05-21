@@ -7,7 +7,7 @@ loaded_model = joblib.load(file_name)
 st.title("Suicide Analysis")
 # st.header("Suicide Analysis")
 
-st.markdown("Enter text below to see whether the text you have entered is suicidal or not.")
+st.markdown("Write Your thoughts. How are you doing? What are you thinking? and How your days are going?")
 
 # removing the streamlit banner at the bottom
 hide_streamlit_style = """
